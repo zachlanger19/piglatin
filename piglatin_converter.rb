@@ -7,4 +7,4 @@ def program(s)
   puts
 end
 
-program('what exactly does this program do')
+program('Convert this sentence to piglatin')
